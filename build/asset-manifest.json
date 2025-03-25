@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f0136789.css",
+    "main.js": "/portfolio/static/js/main.eab3516b.js",
+    "static/media/customerSegmentation.png": "/portfolio/static/media/customerSegmentation.d07a44655208c646b301.png",
+    "static/media/teaser.png": "/portfolio/static/media/teaser.3cdb02bbd80a66b669f5.png",
+    "static/media/fastapi_sklearn.png": "/portfolio/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.565c9c29306627d2173d.png",
+    "static/media/speech-recognition.png": "/portfolio/static/media/speech-recognition.cac26ea2ad545ab3e5b2.png",
+    "index.html": "/portfolio/index.html",
+    "main.f0136789.css.map": "/portfolio/static/css/main.f0136789.css.map",
+    "main.eab3516b.js.map": "/portfolio/static/js/main.eab3516b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0136789.css",
+    "static/js/main.eab3516b.js"
+  ]
+}
