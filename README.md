@@ -73,5 +73,5 @@ variable `REACT_APP_TRACKING_ID`, and rename the file to `.env`
 
 If you see any error of unexpected token ">" while deploying, try to remove the following from the `package.json` file:
 ```
-"homepage": "https://github.com/jayasri058/Portfolio.git",
+"homepage": "https://jayasri058.github.io/Portfolio",
 ```
