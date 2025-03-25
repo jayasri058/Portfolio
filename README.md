@@ -13,7 +13,7 @@ If you found this project helpful, consider giving it a
 
 **[Live Demo](https://github.com/user-attachments/assets/b6141ba9-7e22-4a58-9c28-b931650fd0f4)**
 
-<img src="./src/assets/images/website.gif" alt="demo">
+<img src="./src/assets/images/website.mp4" alt="demo">
 
 
 ## Installation Guide
