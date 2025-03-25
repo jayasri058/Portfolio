@@ -87,17 +87,17 @@ const projectConfig = [
         links: [
             {
                 name: "repo",
-                url: "https://github.com/rodrigo-arenas/portfolio",
+                url: "https://github.com/jayasri058/portfolio",
                 icon: <AiFillGithub/>
             },
             {
                 name: "fork",
-                url: "https://github.com/rodrigo-arenas/portfolio/fork",
+                url: "https://github.com/jayasri058/portfolio/fork",
                 icon: <BiGitRepoForked/>
             },
             {
                 name: "subscription",
-                url: "https://github.com/rodrigo-arenas/portfolio/subscription",
+                url: "https://github.com/jayasri058/portfolio/subscription",
                 icon: <AiFillEye/>
             }
         ],
