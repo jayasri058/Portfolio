@@ -56,7 +56,7 @@ you can also add new values to the configs containing a list.
 This folder keeps images displayed over some routes, like blogs and projects.
 For example, inside the projectsConfig.js file, the list of projects has a property called "image":
 
-![projects_config.png](src/assets/images/projects_config.png)
+![Image](https://github.com/user-attachments/assets/87e8bbdb-f21d-4c07-80e8-919fa7dc6607)
 
 You can set any valid href for the `<a/>` tag as an image URL or, like in the above image, 
 an image from the `assets/images` folder.
