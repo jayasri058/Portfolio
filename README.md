@@ -11,7 +11,8 @@ Feel free to use this project as a template, and please give a small credit by l
 If you found this project helpful, consider giving it a 
 
 
-**[Live Demo]([https://github.com/jayasri058/Portfolio.git](https://github.com/user-attachments/assets/b6141ba9-7e22-4a58-9c28-b931650fd0f4))**
+**[Live Demo]
+https://github.com/user-attachments/assets/b6141ba9-7e22-4a58-9c28-b931650fd0f4**
 
 <img src="./src/assets/images/website.gif" alt="demo">
 
